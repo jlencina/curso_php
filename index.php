@@ -1,1 +1,2 @@
-<?php echo "Olá mundo!"; ?>
+<?php echo "Olá mundo 123!"; ?>
+<?php echo "Olá HCODE!"; ?>
